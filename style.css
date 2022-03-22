@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{ 
+    width: 100%;
+    /* background: linear-gradient(to top, rgba(0,0,0,0)50%,rgba(0,0,0,0)50%), url(bg4.jpg); */
+    background:  url(bg6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+    
+}
+.navbar{
+      width: 1200px;
+      height: 75px;
+      margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+     width: 5px;
+     height:7px ;
+    
+}
+#header {
+    font-family: 'Oxygen', monospace, Courier;
+    color: whitesmoke;
+    padding-right: 15px;
+    margin-right: 20%; 
+    margin-top: 36vh; 
+    font-size: 6vw;
+    letter-spacing: 5px;
+    position: relative;
+    text-align: right;
+    font-weight: bold;
+    border-left: 4px solid;
+    height: 150pt; 
+
+}
